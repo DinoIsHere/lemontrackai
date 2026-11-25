@@ -1,0 +1,55 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  code_assets 1.2.1 (2.1.0 available)
+  flutter_riverpod 2.6.1 (3.4.3 available)
+  forui 0.10.0+1 (0.27.7 available)
+  forui_assets 0.10.0 (0.25.0 available)
+  google_fonts 6.3.3 (9.0.0 available)
+  hooks 2.0.2 (2.2.0 available)
+> intl 0.20.3 (was 0.20.2)
+> matcher 0.12.20 (was 0.12.19)
+  material_color_utilities 0.13.0 (0.13.1 available)
+> meta 1.19.0 (was 1.18.0)
+  objective_c 9.5.0 (9.6.2 available)
+  petitparser 7.0.2 (7.1.0 available)
+  platform 3.1.6 (3.2.0 available)
+  record_use 0.6.0 (1.1.1 available)
+  riverpod 2.6.1 (3.4.3 available)
+  shared_preferences_android 2.4.23 (2.5.4 available)
+  shared_preferences_foundation 2.5.7 (2.6.1 available)
+  speech_to_text 7.4.0 (7.5.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+> test_api 0.7.12 (was 0.7.11) (0.7.15 available)
+> vector_math 2.4.4 (was 2.2.0)
+  web 1.1.1 (1.1.2 available)
+  xml 7.0.1 (7.1.0 available)
+Changed 5 dependencies!
+20 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Analyzing lemontrackai...                                       
+
+  error - The getter 'body' isn't defined for the type 'FTypography'. Try importing the library that defines 'body', correcting the name to the name of an existing getter, or defining a getter or field named 'body' - lib\features\home\presentation\widgets\mini_week_calendar.dart:38:45 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\mini_week_calendar.dart:39:36 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\mini_week_calendar.dart:49:35 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\mini_week_calendar.dart:53:53 - undefined_getter
+  error - The getter 'body' isn't defined for the type 'FTypography'. Try importing the library that defines 'body', correcting the name to the name of an existing getter, or defining a getter or field named 'body' - lib\features\home\presentation\widgets\mini_week_calendar.dart:58:47 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\mini_week_calendar.dart:60:37 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\mini_week_calendar.dart:61:37 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\mini_week_calendar.dart:73:37 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\mini_week_calendar.dart:74:37 - undefined_getter
+  error - The getter 'body' isn't defined for the type 'FTypography'. Try importing the library that defines 'body', correcting the name to the name of an existing getter, or defining a getter or field named 'body' - lib\features\home\presentation\widgets\schedule_widget.dart:33:39 - undefined_getter
+  error - The named parameter 'label' is required, but there's no corresponding argument. Try adding the required argument - lib\features\home\presentation\widgets\suggestion_chips.dart:17:16 - missing_required_argument
+  error - The named parameter 'variant' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'variant' - lib\features\home\presentation\widgets\suggestion_chips.dart:19:11 - undefined_named_parameter
+  error - A dot shorthand can't be used where there is no context type - lib\features\home\presentation\widgets\suggestion_chips.dart:19:20 - dot_shorthand_missing_context
+  error - The named parameter 'child' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'child' - lib\features\home\presentation\widgets\suggestion_chips.dart:20:11 - undefined_named_parameter
+  error - The getter 'body' isn't defined for the type 'FTypography'. Try importing the library that defines 'body', correcting the name to the name of an existing getter, or defining a getter or field named 'body' - lib\features\home\presentation\widgets\today_events_list.dart:20:35 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\today_events_list.dart:21:26 - undefined_getter
+  error - The getter 'body' isn't defined for the type 'FTypography'. Try importing the library that defines 'body', correcting the name to the name of an existing getter, or defining a getter or field named 'body' - lib\features\home\presentation\widgets\today_events_list.dart:48:47 - undefined_getter
+  error - The getter 'body' isn't defined for the type 'FTypography'. Try importing the library that defines 'body', correcting the name to the name of an existing getter, or defining a getter or field named 'body' - lib\features\home\presentation\widgets\today_events_list.dart:54:47 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\today_events_list.dart:55:38 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\welcome_header.dart:24:26 - undefined_getter
+  error - The getter 'body' isn't defined for the type 'FTypography'. Try importing the library that defines 'body', correcting the name to the name of an existing getter, or defining a getter or field named 'body' - lib\features\home\presentation\widgets\welcome_header.dart:30:35 - undefined_getter
+  error - The getter 'colors' isn't defined for the type 'FThemeData'. Try importing the library that defines 'colors', correcting the name to the name of an existing getter, or defining a getter or field named 'colors' - lib\features\home\presentation\widgets\welcome_header.dart:31:26 - undefined_getter
+
+22 issues found. (ran in 18.9s)

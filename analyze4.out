@@ -1,0 +1,7 @@
+Analyzing lemontrackai...                                       
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement - lib\features\chat\presentation\widgets\typing_indicator.dart:57:62 - deprecated_member_use
+   info - 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre. Try replacing the use of the deprecated member with the replacement - lib\shared\widgets\chat_input_bar.dart:93:46 - deprecated_member_use
+   info - 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre. Try replacing the use of the deprecated member with the replacement - lib\shared\widgets\chat_input_bar.dart:140:32 - deprecated_member_use
+
+3 issues found. (ran in 12.0s)

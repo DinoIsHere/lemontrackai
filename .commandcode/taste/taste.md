@@ -1,0 +1,5 @@
+- Prefers updating the Dart/Flutter SDK over downgrading dependencies when resolving version constraints. Confidence: 0.95
+- Prefers fixing VS Code Flutter/Dart SDK mismatches (pointing VS Code to the correct Flutter SDK and ensuring PATH order). Confidence: 0.9
+- Prefers home screen layout with a centered logo placeholder, greeting (h1) centered above subtitle (h2), in the middle of the screen. Confidence: 0.9
+- Prefers suggestion chips shown as a vertical list (max 3) on top of a pill/container with only horizontal dividers between items and no vertical dividers or borders. Confidence: 0.9
+- Prefers pure black background for the app. Confidence: 0.9
